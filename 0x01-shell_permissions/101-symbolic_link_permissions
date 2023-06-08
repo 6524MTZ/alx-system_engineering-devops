@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -h vincement:staff_hello
